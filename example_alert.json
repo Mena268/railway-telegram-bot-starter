@@ -1,0 +1,7 @@
+{
+  "symbol": "EURUSD",
+  "side": "SELL",
+  "price": 1.0895,
+  "timeframe": "M5",
+  "note": "Strategy alert example"
+}
